@@ -1,55 +1,102 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Anil%20Jiragyale&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GSK%20GCC&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anil%20Jiragyale&fontSize=60&fontColor=fff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20GSK%20GCC%20Bangalore&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Graduate+Intern+%40+GSK+GCC+Bangalore;AI+Engineer+%26+Full+Stack+Developer;LLM+%7C+RAG+%7C+FastAPI+%7C+React.js;Building+Enterprise+AI+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=🤖+Building+Enterprise+LLM+Systems+%40+GSK+GCC;⚡+RAG+Pipelines+%7C+FastAPI+%7C+React.js+%7C+Python;🎯+30%25+Accuracy+Boost+via+AI+Guardrails;🚀+Open+to+Full-time+AI+%2F+Dev+Roles)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-jiragyale/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniljiragyale)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniljiragyale07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-jiragyale/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniljiragyale07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniljiragyale)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
+![Profile Views](https://komarev.com/ghpvc/?username=aniljiragyale&color=6366f1&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 whoami
 
 ```python
-anil = {
-    "name"      : "Anil Channappa Jiragyale",
-    "role"      : "Graduate Intern — AI & Full Stack Engineering",
-    "company"   : "GlaxoSmithKline (GSK) GCC, Bangalore",
-    "education" : "B.E. Computer Science — East Point College of Engineering",
-    "focus"     : ["LLM Systems", "RAG Pipelines", "Full Stack Dev", "DevOps"],
-    "location"  : "Bangalore, Karnataka, India 📍",
-    "open_to"   : "Full-time AI Engineer / Developer roles 🚀",
-}
-```
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────────────────
+#   👨‍💻  ANIL CHANNAPPA JIRAGYALE  —  Developer Profile v2.0
+# ─────────────────────────────────────────────────────────────
 
-- 🏢 **Graduate Intern** at **GlaxoSmithKline (GSK) GCC** — building enterprise AI applications
-- 🤖 Working with **LLMs, RAG, Prompt Engineering** & **Multi-Agent Workflows**
-- ⚡ Building scalable **REST APIs** with **FastAPI** & **React** dashboards
-- 🎯 Improved enterprise query accuracy by **30%** with AI-powered guardrails
-- 🌱 Always learning — currently exploring **GenAI**, **Vector DBs** & **Cloud Architecture**
-- 💬 Ask me about: **Python · FastAPI · React · Java · LLMs · DevOps**
-- 📫 Reach me: **aniljiragyale07@gmail.com**
+class Developer:
+
+    def __init__(self):
+        self.name       = "Anil Channappa Jiragyale"
+        self.alias      = "aniljiragyale"
+        self.role       = "Graduate Intern — AI & Full Stack Engineering"
+        self.company    = "GlaxoSmithKline (GSK) GCC 🏢, Bangalore"
+        self.education  = "B.E. Computer Science & Engineering"
+        self.college    = "East Point College of Engineering & Technology, Bangalore"
+        self.location   = "Bangalore, Karnataka, India 📍"
+
+    @property
+    def tech_stack(self):
+        return {
+            "ai_ml"     : ["LLM", "RAG", "Prompt Engineering", "Multi-Agent",
+                           "TensorFlow", "Keras", "Scikit-learn", "NLP", "OpenCV"],
+            "languages" : ["Python 🐍", "JavaScript ⚡", "Java ☕", "SQL"],
+            "frontend"  : ["React.js ⚛️", "HTML5", "CSS3"],
+            "backend"   : ["FastAPI 🚀", "Node.js", "Express.js", "Spring Boot"],
+            "databases" : ["MySQL", "MongoDB", "DuckDB"],
+            "devops"    : ["Git", "GitHub", "Jenkins", "CI/CD", "Linux", "Ansible"],
+        }
+
+    @property
+    def achievements(self):
+        return {
+            "accuracy_boost" : "+30% query accuracy @ GSK via LLM guardrails",
+            "ml_accuracy"    : "85% COVID-19 spread prediction accuracy",
+            "experience"     : "1+ year @ GlaxoSmithKline GCC",
+            "projects_built" : 5,
+            "technologies"   : "20+",
+        }
+
+    @property
+    def currently(self):
+        return {
+            "working_on" : "Enterprise AI Platform — ASK CDF, ER Extractor, S2T Validator",
+            "learning"   : ["Advanced GenAI", "LangChain", "Vector DBs", "AWS Cloud"],
+            "open_to"    : "Full-time AI Engineer / Full Stack Developer roles 🚀",
+            "fun_fact"   : "I turn coffee ☕ into LLM-powered enterprise apps 🤖",
+        }
+
+    def contact(self):
+        return {
+            "email"    : "aniljiragyale07@gmail.com",
+            "linkedin" : "linkedin.com/in/anil-jiragyale",
+            "github"   : "github.com/aniljiragyale",
+        }
+
+    def __repr__(self):
+        return f"Developer(name={self.name!r}, role={self.role!r})"
+
+
+# ── Run ──────────────────────────────────────────────────────
+if __name__ == "__main__":
+    anil = Developer()
+    print(f"👋  Hey! I'm {anil.name}")
+    print(f"🏢  {anil.role} @ GlaxoSmithKline GCC")
+    print(f"📍  {anil.location}")
+    print(f"📬  {anil.contact()['email']}")
+    print(f"🚀  {anil.currently['open_to']}")
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🤖 AI / Machine Learning
+<div align="center">
+
+### 🤖 AI / ML / GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -58,9 +105,9 @@ anil = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Full Stack Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚡ Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,7 +117,7 @@ anil = {
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 ### ⚙️ DevOps & Tools
@@ -80,6 +127,41 @@ anil = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+```bash
+$ git log --oneline --graph --experience
+
+*   2025-08 ── (HEAD → current)  Graduate Intern · AI & Full Stack Engineering
+|              GlaxoSmithKline (GSK) GCC, Bangalore
+|
+|              ✦ LLM query processing + contextual memory + guardrail validation
+|              ✦ RAG workflows for enterprise knowledge retrieval
+|              ✦ FastAPI REST APIs for data ingestion & analytics
+|              ✦ React.js dashboards + CI/CD with Jenkins & Git
+|              ✦ Data governance & intelligent validation systems
+|              ✦ Impact: +30% query accuracy improvement
+|
+*   2024-10 ── Apprenticeship Trainee · Full Stack & DevOps
+|              GlaxoSmithKline (GSK) GCC, Bangalore
+|
+|              ✦ MERN stack — MongoDB, Express, React, Node.js
+|              ✦ Python automation scripting & data analysis
+|              ✦ Automation testing & team leadership
+|
+*   2023-01 ── AI / ML Intern
+               AIRobosoft, Bangalore
+
+               ✦ COVID-19 spread prediction model — 85% accuracy
+               ✦ Benchmarked: LASSO · ARIMA · LSTM
+               ✦ Python · Scikit-learn · TensorFlow · Pandas
+```
 
 ---
 
@@ -87,61 +169,77 @@ anil = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏢 AI-Enabled Data Engineering Platform
-> Built at **GlaxoSmithKline GCC** — Production System
+> **Production system @ GlaxoSmithKline GCC**
 
-- **ASK CDF** — LLM chatbot with contextual memory & guardrails
-- **ER Extractor** — NLP-powered entity-relationship generator
-- **S2T Validator** — AI-driven schema-to-table validation
-- Improved data accuracy by **30%** using RAG workflows
+```
+Components Built:
+├── ASK CDF       → LLM chatbot + guardrails + memory
+├── ER Extractor  → NLP entity-relationship generator
+└── S2T Validator → AI-driven schema validation
+```
 
-`Python` `LLM` `RAG` `FastAPI` `React.js` `NLP`
+**Impact:** `+30% data accuracy` via RAG pipelines
+
+`Python` `LLM` `RAG` `FastAPI` `React` `NLP` `CI/CD`
+
+🔒 Enterprise — Private Repository
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 COVID-19 Spread Prediction
-> **85% Accuracy** using ensemble ML models
+> **85% Accuracy** — ML Benchmarking Study
 
-- Benchmarked **LASSO, ARIMA & LSTM** models
-- Large-scale epidemiological dataset analysis
-- Computational tracking of virus spread dynamics
+```
+Models Benchmarked:
+├── LASSO Regression  → statistical baseline
+├── ARIMA             → time-series analysis
+└── LSTM Neural Net   → best performer ✓
+```
 
-`Python` `TensorFlow` `Scikit-learn` `Pandas` `LSTM`
+`Python` `TensorFlow` `Scikit-learn` `Pandas` `ARIMA`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/aniljiragyale/Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning.-.git)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/aniljiragyale/Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning.-.git)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✈️ Airline Reservation System
 > Full-stack booking platform
 
-- Real-time flight search & seat booking
-- **Spring Boot** REST APIs + **React** UI
-- Optimized **MySQL** database operations
+```
+Architecture:
+├── Frontend  → React.js (responsive UI)
+├── Backend   → Java + Spring Boot (REST)
+└── Database  → MySQL (optimized queries)
+```
 
-`React.js` `Java` `Spring Boot` `MySQL` `REST API`
+`React` `Java` `Spring Boot` `MySQL` `REST API`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/aniljiragyale/airline-reservation-system.git)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/aniljiragyale/airline-reservation-system.git)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Trend Mart — Online Shopping
-> Responsive e-commerce website
+### 🛒 Trend Mart — E-Commerce
+> Responsive shopping website
 
-- Dynamic product pages & cart functionality
-- Clean modern UI across all devices
-- Deployed live on Netlify
+```
+Features:
+├── Dynamic product catalogue
+├── Cart & checkout flow
+└── Fully mobile-responsive
+```
 
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3` `JavaScript` `Netlify`
 
-[![Live](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://trendmart-onlineshopping.netlify.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://trendmart-onlineshopping.netlify.app/)
+[![Live](https://img.shields.io/badge/SM_Photography-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://sm-photography.netlify.app/)
 
 </td>
 </tr>
@@ -149,71 +247,83 @@ anil = {
 
 ---
 
-## 💼 Experience
-
-```
-🏢  GlaxoSmithKline (GSK) GCC — Bangalore
-    ├── Graduate Intern · AI & Full Stack Engineering    Aug 2025 – Present
-    │   ├── LLM query processing + guardrail validation (+30% accuracy)
-    │   ├── RAG workflows for enterprise knowledge retrieval
-    │   ├── FastAPI REST APIs + React dashboards
-    │   └── CI/CD pipelines with Jenkins & Git
-    │
-    └── Apprenticeship Trainee · Full Stack & DevOps     Oct 2024 – Apr 2025
-        ├── MERN stack development
-        ├── Python automation & data analysis
-        └── Automation testing & team leadership
-
-🤖  AIRobosoft — AI/ML Intern                           2023
-    └── COVID-19 prediction model · Python · ML algorithms
-```
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aniljiragyale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniljiragyale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniljiragyale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniljiragyale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=aniljiragyale&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1"/>
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aniljiragyale&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://git.io/streak-stats)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniljiragyale&theme=tokyo-night&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 ## 🎓 Education & Training
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| 🎓 B.E. Computer Science & Engineering | East Point College of Engineering, Bangalore | 2020 – 2024 |
-| 💻 Java Full Stack Training | Tap Academy | Apr – Oct 2024 |
-| 🤖 AI / ML Internship | AIRobosoft | 2023 |
-| 📚 PUC – Science (85%) | Ekalavya Science PU College, Harugeri | 2018 – 2020 |
+```
+📚 Academic Background
+─────────────────────────────────────────────────────────────────
+🎓  B.E. Computer Science & Engineering              2020 – 2024
+    East Point College of Engineering & Technology, Bangalore
+
+📗  Pre-University (PUC) — Science  [ 85% ]         2018 – 2020
+    Ekalavya Science PU College, Harugeri, Karnataka
+
+🏫  SSLC — Secondary Education      [ 70% ]
+    Vidyavardhak High School, Athani, Karnataka
+
+📝 Training & Certifications
+─────────────────────────────────────────────────────────────────
+💻  Java Full Stack Development                  Apr – Oct 2024
+    Tap Academy · Spring Boot · REST APIs · React · MySQL · Git
+
+🤖  AI / ML Internship                           2023
+    AIRobosoft · Python · ML Algorithms · Model Evaluation
+```
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- 🤖 **Advanced GenAI** — Vector DBs, LangChain, OpenAI API
-- ☁️ **Cloud Architecture** — AWS / Azure fundamentals
-- 🏗️ **System Design** — Distributed systems & microservices
-- 🔬 **MLOps** — Model deployment & monitoring pipelines
+<div align="center">
+
+| 🔬 Area | 📚 Topics |
+|---------|-----------|
+| 🤖 **GenAI / LLMs** | LangChain · Vector Databases · OpenAI API · Embeddings |
+| ☁️ **Cloud** | AWS Fundamentals · Azure · Serverless · Deployment |
+| 🏗️ **System Design** | Distributed Systems · Microservices · Scalability |
+| 🔬 **MLOps** | Model Deployment · Monitoring · CI/CD for ML Pipelines |
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Great!
+### 💬 Let's Build Something Great Together!
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-jiragyale/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniljiragyale07@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniljiragyale)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
